@@ -1,0 +1,8 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Thesis Project <br> a stupid fuckin shit
+description: |
+---
+bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla 

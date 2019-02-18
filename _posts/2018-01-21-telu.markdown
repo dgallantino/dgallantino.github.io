@@ -1,0 +1,8 @@
+---
+layout: default
+img: telu.jpg
+category: Experience
+title: Telkom University <br> Computer Engineering
+description: |
+---
+[Telkom University](https://telkomuniversity.ac.id/) is where i get my bachelor's degree in Computer Engineering. Here, Lots of things have been learnt and also forgoten
