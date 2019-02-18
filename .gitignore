@@ -56,7 +56,9 @@ Temporary Items
 
 # Project files should be checked into the repository, unless a significant
 # proportion of contributors will probably not be using Sublime Text
-# *.sublime-project
+*.sublime-project
+*.sublime-sttings
+
 
 # SFTP configuration file
 sftp-config.json
@@ -101,5 +103,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-*.sublime-sttings
+
+#jekyll
+_site
+*.sass-cache
+*.jekyll-metadata
+
+
+
 # End of https://www.gitignore.io/api/macos,linux,windows,sublimetext
