@@ -5,4 +5,4 @@ category: Experience
 title: Telkom University <br> Computer Engineering
 description: |
 ---
-[Telkom University](https://telkomuniversity.ac.id/) is where i get my bachelor's degree in Computer Engineering. Here, Lots of things have been learnt and also forgoten
+[Telkom University](https://telkomuniversity.ac.id/) is where i get my bachelor's degree in Computer Engineering. While Computer Engineering covers three biggest fields in Computer Technologies wich is Software, Hardware and Networking, I was focusing my studies mostly on software engineering to prepare myself to be ready bevore dive in computer sofware industries

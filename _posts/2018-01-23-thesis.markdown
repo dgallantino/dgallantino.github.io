@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: thesis.png
 category: Services
-title: Thesis Project <br> a stupid fuckin shit
+title: Thesis Project <br> Sign Detection and Digit Recognition
 description: |
 ---
-bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla bla bla bla bkla 
+A simple application of object detection and digit recognition techniques to detect some kind of road sign and read digits inside detected sign.
