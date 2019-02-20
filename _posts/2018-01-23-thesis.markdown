@@ -1,8 +1,8 @@
 ---
 layout: default
-img: thesis.png
+img: thesis.jpg
 category: Services
-title: Thesis Project <br> Sign Detection and Digit Recognition
+title: Bachelor final project <br/> Sign Detection and Digit Recognition
 description: |
 ---
 A simple application of object detection and digit recognition techniques to detect some kind of road sign and read digits inside detected sign.
