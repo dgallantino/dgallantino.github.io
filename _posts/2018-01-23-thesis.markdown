@@ -5,4 +5,4 @@ category: Services
 title: Bachelor final project <br/> Sign Detection and Digit Recognition
 description: |
 ---
-A simple application of object detection and digit recognition techniques to detect some kind of road sign and read digits inside detected sign.
+A simple application of object detection and digit recognition techniques to detect some kind of road sign and recognise the numerical digits inside detected sign.
