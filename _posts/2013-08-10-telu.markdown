@@ -5,4 +5,4 @@ category: Experience
 title: Telkom University <br> Computer Engineering
 description: |
 ---
-[Telkom University](https://telkomuniversity.ac.id/) is where i get my bachelor's degree in Computer Engineering. While Computer Engineering covers three biggest fields in Computer Technologies wich is Software, Hardware and Networking, I was focusing my studies mostly on software engineering to prepare myself to be ready bevore dive in computer sofware industries
+I graduated from [Telkom University](https://telkomuniversity.ac.id/) with a Bachelor’s degree in Computer Engineering, achieving a GPA of 3.26 out of 4.00. Throughout my studies, I developed a strong foundation in computer systems, programming, and network engineering, with a particular focus on software engineering. This prepared me well for a career in technology and innovation
