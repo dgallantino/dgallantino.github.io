@@ -13,7 +13,7 @@ This site is a project gallery first. The write-ups are short on purpose: what i
 
 <ul class="timeline">
   <li>
-    <time datetime="2022">2022–present</time>
+    <time datetime="2022">2022–2026</time>
     <strong>Backend</strong> at PT Teknologi Integrasi Optima (TekIno). Django and Flask systems, integrations into larger stacks, and client-facing work — including a WhatsApp assistant on their service.
   </li>
   <li>
