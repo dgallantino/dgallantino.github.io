@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="prose project">
+  <p class="kicker"><a href="{{ '/work/' | relative_url }}">Work</a></p>
+  <h1>{{ page.title }}</h1>
+  {% if page.stack %}
+    <ul class="tags">
+      {% for item in page.stack %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      {% if page.status == 'in-progress' %}
+        <li class="tag-status">In progress</li>
+      {% endif %}
+    </ul>
+  {% endif %}
+  {{ content }}
+  {% if page.repo %}
+    <p class="cta"><a class="button" href="{{ page.repo }}">View on GitHub</a></p>
+  {% endif %}
+</article>
