@@ -1,38 +1,42 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
-url: http://yoursite.com
+url: https://dgallantino.github.io
 title: Dimas Gallantino
 email: dimas.galant@gmail.com
 author: Dimas Gallantino
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
-
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
-
-# Build settings
+description: Selected projects — systems, CLIs, and small products.
+lang: en
+theme: null
 markdown: kramdown
 permalink: pretty
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .bundle
 plugins:
   - jekyll-seo-tag
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
+collections:
+  projects:
+    output: true
+    permalink: /work/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 
 social:
-  - title: github
+  - title: GitHub
     url: https://github.com/dgallantino
-  - title: linkedin
+  - title: LinkedIn
     url: https://www.linkedin.com/in/dgallantino
-  - title: mail
-    icon: envelope
+  - title: Email
     url: mailto:dimas.galant@gmail.com
-

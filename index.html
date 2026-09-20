@@ -1,5 +1,22 @@
 ---
-layout: default
-title: Dimas Gallantino
-subTitle: An Aspiring Engineer
+layout: home
+title: Selected projects
 ---
+<section class="intro">
+  <h1>Dimas Gallantino</h1>
+  <p class="lede">Selected projects — systems, CLIs, and small products.</p>
+  <p>I build tools I actually use: rate limits, job-hunting helpers, clinic queues, RAG experiments. This page is the short version for people who would rather not hunt through GitHub.</p>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2>Featured</h2>
+    <a href="{{ '/work/' | relative_url }}">All projects</a>
+  </div>
+  <div class="card-grid">
+    {% assign featured = site.projects | where: "featured", true | sort: "date" | reverse %}
+    {% for project in featured %}
+      {% include project-card.html %}
+    {% endfor %}
+  </div>
+</section>
