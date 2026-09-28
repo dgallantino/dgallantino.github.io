@@ -13,7 +13,3 @@ I wanted `forex-rate 10 usd idr jpy` on a machine without opening a browser. The
 
 Realtime ticks are not the point. A week-long cache is the default; `--refresh` fetches again. There is an optional baked-in rate for a personal unit I use in notes. That is the whole product, on purpose.
 
-
-## indepth notes
-
-this 
